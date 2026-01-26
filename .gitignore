@@ -1,0 +1,20 @@
+# Environment variables
+.env
+backend/.env
+
+# Dependencies
+node_modules
+venv
+backend/venv
+
+# Python
+__pycache__
+*.py[cod]
+
+# Database
+backend/data/chroma_db
+chroma_db
+
+# IDEs
+.vscode
+.idea

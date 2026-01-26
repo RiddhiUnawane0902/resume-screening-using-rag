@@ -1,0 +1,17 @@
+Job Title: Senior Full Stack Engineer (AI Focus)
+
+We are looking for a talented Senior Full Stack Engineer to join our AI solutions team. You will be building next-gen applications that leverage Large Language Models.
+
+Responsibilities:
+- Design and build robust APIs using Python (FastAPI or Django).
+- Develop modern responsive frontends using React and TypeScript.
+- Implement RAG (Retrieval Augmented Generation) pipelines.
+- Manage updates and deployments on AWS.
+
+Requirements:
+- 4+ years of experience in Software Engineering.
+- Strong proficiency in Python and JavaScript/TypeScript.
+- Experience with FastAPI and React is a must.
+- Knowledge of Vector Databases (Chroma, Pinecone) is a plus.
+- Experience with AWS and Docker.
+- Strong communication skills.
